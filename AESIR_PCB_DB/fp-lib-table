@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SMD_Footprints_Advanced)(type Github)(uri https://github.com/ojousima/SMD_Packages.pretty-1)(options "")(descr ""))
+)
